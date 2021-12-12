@@ -18,15 +18,15 @@
 
 <table cellspacing="0">
   <tr align="center">
-    <td colspan="1"> <b>Responsive Design</b> </td>
+    <td colspan="1"> <b>Adding Items to List</b> </td>
   </tr>
-  <td align="center"> <img src="/img/UI.png" width="768" height="550"/> <span>  768px or bigger </span> </td>
+  <td align="center"> <img src="/img/UI.png" width="350" height="566"/> <br/> <span> Size: 350*566 </span></td>
 </table>
   <br/>
 
 ### Update List
 
-- [x] To build basic structure like **youtube** using html
-- [x] To design a web page like **youtube** using css
-- [x] To apply **Responsive Web** to the design.
-- [x] To add simple functions by JavaScript
+- [x] To design shopping list with mobile view
+- [x] To add a function to add items to the list
+- [x] To add a function to remove items from the list
+- [x] To add a function to make scroll when items become out of range of list 
