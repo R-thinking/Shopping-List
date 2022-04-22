@@ -10,7 +10,7 @@
 
 ## Description
 
-> It's Shopping List mobile UI to add or remove Items.
+> It's mobile UI for shopping list to add or remove Items. Users can add items that they want and remove items too.
 
 <br/>
 
@@ -29,4 +29,4 @@
 - [x] To design shopping list with mobile view
 - [x] To add a function to add items to the list
 - [x] To add a function to remove items from the list
-- [x] To add a function to make scroll when items become out of range of list 
+- [x] To add a function to make scroll when items become out of range of list
